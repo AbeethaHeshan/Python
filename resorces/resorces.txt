@@ -18,3 +18,4 @@ clone project from git and download dependencies(packages)
 
 https://www.scaler.com/topics/how-to-create-requirements-txt-python/
 https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project
+https://github.com/github/gitignore/blob/rmw-universe-2022/Global/VirtualEnv.gitignore
