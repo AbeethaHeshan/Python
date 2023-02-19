@@ -1,0 +1,20 @@
+create requirement.txt file
+     -  pip3 freeze > requirements.txt
+get dependencies from requirements.txt
+     -  pip install -r requirements.txt
+
+install packages
+     - pip install <package_name>
+
+remove packages 
+     -  pip uninstall <package_name>
+
+clone project from git and download dependencies(packages)
+    1.  py -3 -m venv  venv  or  py -3 -m venv    -> create vetual environment
+    2.  activate a virtual environment.  goto Scripts > .\activate.bat  
+    3.  clone project
+    4.  pip3 install -r requirements.txt
+
+
+https://www.scaler.com/topics/how-to-create-requirements-txt-python/
+https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project
